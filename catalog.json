@@ -1,0 +1,64 @@
+{
+  "templates": [
+    {
+      "name": "AI Addendum",
+      "description": "Addendum to a Common Paper agreement governing a provider's AI services, including use of customer input and AI-generated output, and restrictions on training with customer data.",
+      "filename": "templates/AI-Addendum.md"
+    },
+    {
+      "name": "Business Associate Agreement",
+      "description": "HIPAA Business Associate Agreement setting out how a provider may use, disclose, and safeguard protected health information (PHI) on behalf of a covered entity.",
+      "filename": "templates/BAA.md"
+    },
+    {
+      "name": "Cloud Service Agreement",
+      "description": "Standard terms for selling and buying cloud software and SaaS products, covering access and use, fees, confidentiality, warranties, liability, and term.",
+      "filename": "templates/CSA.md"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "Agreement giving an early design partner access to a pre-release product in exchange for feedback and participation in the provider's design partner program.",
+      "filename": "templates/design-partner-agreement.md"
+    },
+    {
+      "name": "Data Processing Agreement",
+      "description": "Data protection terms governing a provider's processing of customer personal data as processor or subprocessor, including GDPR-style obligations, subprocessors, and international transfers.",
+      "filename": "templates/DPA.md"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement (Standard Terms)",
+      "description": "Standard terms of a mutual NDA governing how each party may use and must protect confidential information disclosed for a stated purpose.",
+      "filename": "templates/Mutual-NDA.md"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement (Cover Page)",
+      "description": "Cover page for the mutual NDA capturing the deal-specific terms, such as purpose, effective date, MNDA term, confidentiality term, governing law, and signatures.",
+      "filename": "templates/Mutual-NDA-coverpage.md"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "Agreement for business partnerships where each party performs agreed obligations, covering fees and payment, a mutual trademark license, escalation procedures, indemnification, and confidentiality.",
+      "filename": "templates/Partnership-Agreement.md"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "Short-term trial or evaluation agreement letting a prospective customer test a product before committing to a full commercial agreement.",
+      "filename": "templates/Pilot-Agreement.md"
+    },
+    {
+      "name": "Professional Services Agreement",
+      "description": "Standard terms for professional services performed under statements of work (SOWs), covering deliverables, fees, intellectual property, warranties, and liability.",
+      "filename": "templates/psa.md"
+    },
+    {
+      "name": "Service Level Agreement",
+      "description": "Uptime and support response commitments for a cloud service, with service credits and termination rights, designed for use with the Cloud Service Agreement.",
+      "filename": "templates/sla.md"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "Standard terms for licensing installable (on-premises) software, covering the license grant, restrictions, fees, support, warranties, and liability.",
+      "filename": "templates/Software-License-Agreement.md"
+    }
+  ]
+}
